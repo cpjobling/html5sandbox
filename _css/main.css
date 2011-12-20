@@ -32,7 +32,7 @@ a {
 }
 
 /*html5 display rule*/
-article, aside, canvas, details, figcaption, figure, footer, header, hgroup, nav, menu, nav, section, summary {
+article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
 	display: block;
 }
 
